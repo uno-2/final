@@ -42,7 +42,6 @@
 ?>
 </table>
     <form action="registration-input.php" method="post">
-        <button type="submit">登録画面に戻る</button>
 </form>
 <button onclick="location.href='top.php'">トップへ戻る</button>
     </body>
